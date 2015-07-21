@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe ZodiacsController, type: :controller do
+RSpec.describe ZodiacController, type: :controller do
 
   context 'Part 1' do
     describe "GET #ram" do
